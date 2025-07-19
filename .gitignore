@@ -1,2 +1,13 @@
-.idea
-.vscode
+# IDE settings
+**/.vscode/
+**/.idea/
+**/.vs/
+
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
